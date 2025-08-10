@@ -1,4 +1,4 @@
-## 📝 PDF Document Section Classifier
+## 📝 PDF Document Section Classifier 
 
 **Python Version:** 3.8+  
 **License:** MIT  
